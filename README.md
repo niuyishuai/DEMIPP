@@ -12,6 +12,8 @@ git clone https://github.com/niuyishuai/DEMIPP.git
 ```matlab
 setup;
 ```
+  3. Polylab toolbox is required, please get and install Polylab from [Polylab](https://github.com/niuyishuai/Polylab)
+
 
 ## Examples
   See examples in tests folder
