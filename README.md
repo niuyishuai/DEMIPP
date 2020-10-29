@@ -1,5 +1,5 @@
 # DEMIPP
-A matlab toolbox of differential equation methods for solving Boolean polynomial programs
+A matlab toolbox of differential equation methods (Houbolt scheme, Lie scheme and RK(4,5) scheme) for solving Boolean polynomial programs
 
 This project is supported by the National Natural Science Foundation of China (Grant No: 11601327) and the Key Construction National “985” Program of China (Grant No: WF220426001).
 
