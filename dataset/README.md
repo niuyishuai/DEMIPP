@@ -1,7 +1,7 @@
 # Datasets
 
 ## Synthetic dataset 
-The coefficients of polynomials are integers randomly chosen in the interval $[-10,10]$, and the decision variable $V\in \{-1,1\}^n$ with $2\leq n\leq 10$ for small-scale cases and $11\leq n\leq 20$ for relatively large-scale cases. The degree of polynomials $d$ is chosen in the interval $[2,6]$ which covers the most frequently used polynomials in real-world applications. 
+The coefficients of polynomials are integers randomly chosen in the interval $`[-10,10]`$, and the decision variable $`V\in \{-1,1\}^n`$ with $`2\leq n\leq 10`$ for small-scale cases and $`11\leq n\leq 20`$ for relatively large-scale cases. The degree of polynomials $`d`$ is chosen in the interval $`[2,6]`$ which covers the most frequently used polynomials in real-world applications. 
 
 ## Benchmark dataset MQLib
 This dataset consists of 3296 large-scale, heterogeneous Max-Cut and Quadratic Unconstrained Binary Optimization (QUBO) problems, combining real-world problem instances and random problem instances from multiple random generators. Both of them are quadratic Boolean programs. This dataset can be found in Dunning, Gupta and Silberholz [1]
