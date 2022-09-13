@@ -29,11 +29,14 @@ setup;
 }
 ```
 ```
-@article{niu2019discrete,
-  title={Discrete Dynamical System Approaches For Boolean Polynomial Optimization},
-  author={Niu, Yi-Shuai and Glowinski, Roland},
-  journal={arXiv preprint arXiv:1912.10221},
-  year={2019}
+@article{2022Discrete,
+  title={Discrete Dynamical System Approaches for Boolean Polynomial Optimization},
+  author={ Niu, Yi-Shuai and Glowinski, Roland},
+  journal={Journal of Scientific Computing},
+  volume={92},
+  number={2},
+  pages={1-39},
+  year={2022},
 }
 ```
 
